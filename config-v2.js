@@ -1,13 +1,9 @@
-const GITHUB_AUTH_TOKEN = "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"
-const GITHUB_USER_NAME ="sanduntharaka00t"
-const BOT_NUMBER = "94754015815"
-const SEASON_ID = "PRABATH-MD~TP40ybyZ#mROK1NeRx1CrH9L7_jXBvtYCr9JHg3fet88C8E53otw"
+const GITHUB_AUTH_TOKEN = "null"
+const BOT_NUMBER = "null"
 
   
 module.exports = {
 GITHUB_AUTH_TOKEN,
-GITHUB_USER_NAME,
-BOT_NUMBER,
-SEASON_ID,
+BOT_NUMBER
 
 }
